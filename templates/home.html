@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class="jumbotron">
+       <h1>Let's find what you want to download...</h1>
+       <form action="/" method="POST">
+          <div class="form-group">
+             <label for="InstaURL">Paste in an Instagram picture (or sidecar images) or video URL below</label>
+             <input type="text" class="form-control" name="InstaURL" id="InstaURL" placeholder="Instagram url here">
+          </div>
+          <button type="submit" class="btn">Display!</button>
+          {% if image %} <img src="{{ image }}">
+          {% endif %}
+
+          {% if sidecar %}
+                {% for pic in sidecar %}
+                    <img src="{{ pic }}">
+                {% endfor %}
+          {% endif %}
+
+          {% if video %}
+                <video controls><source src="{{ video }}" type="video/mp4"></video>
+          {% endif %}
+       </form>
+    </div>
+{% endblock content %}

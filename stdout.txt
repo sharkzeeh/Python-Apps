@@ -1,0 +1,119 @@
+started at: 2020-05-07 12:09:50
+finished at: 2020-05-07 13:09:52
+time elapsed: 20:01.632707
+
+https://us.cnn.com/: 20 uph
+https://www.nytimes.com/: 20 uph
+https://www.foxnews.com/: 20 uph
+https://www.reuters.com/news/us: 20 uph
+https://www.politico.com/: 20 uph
+https://www.yahoo.com/news/: 20 uph
+https://www.latimes.com/california: 20 uph
+https://www.breitbart.com/: 20 uph
+https://nypost.com/: 20 uph
+https://abcnews.go.com/: 20 uph
+https://www.cbsnews.com/: 20 uph
+https://newyork.cbslocal.com/: 20 uph
+https://dfw.cbslocal.com/: 20 uph
+https://chicago.cbslocal.com/: 20 uph
+https://philadelphia.cbslocal.com/: 20 uph
+https://sanfrancisco.cbslocal.com/: 20 uph
+https://boston.cbslocal.com/: 20 uph
+https://www.chicagotribune.com/: 20 uph
+https://www.nydailynews.com/: 20 uph
+https://www.seattletimes.com/: 20 uph
+https://www.mercurynews.com/: 20 uph
+https://www.theonion.com/: 20 uph
+https://www.denverpost.com/: 20 uph
+https://www.stltoday.com/: 20 uph
+https://www.nbcnewyork.com/: 20 uph
+https://abc7news.com/: 20 uph
+https://chicago.suntimes.com/: 20 uph
+https://gothamist.com/: 20 uph
+https://www.nbcchicago.com/: 20 uph
+https://abc13.com/: 20 uph
+https://www.dailyherald.com/: 20 uph
+https://www.nbcdfw.com/news/: 20 uph
+https://www.nbcsandiego.com/: 20 uph
+https://www.westword.com/: 20 uph
+https://www.nbcphiladelphia.com/: 20 uph
+https://wsvn.com/news/: 20 uph
+https://www.wfla.com/: 20 uph
+https://www.miaminewtimes.com/: 20 uph
+https://whdh.com/: 20 uph
+https://www.nbcwashington.com/: 20 uph
+https://www.phoenixnewtimes.com/: 20 uph
+https://www.pe.com/: 20 uph
+https://www.wivb.com/: 20 uph
+https://www.riverfronttimes.com/: 20 uph
+https://www.chicagoreader.com/: 20 uph
+https://www.houstonpress.com/: 20 uph
+https://billypenn.com/: 20 uph
+https://boltposts.com/: 20 uph
+https://atlantaintownpaper.com/: 20 uph
+https://newrightnetwork.com/: 20 uph
+http://laindependent.com/: 20 uph
+http://www.foresthillstimes.com/: 20 uph
+http://marketprimenews.com/: 20 uph
+https://www.newsday.com/: 20 uph
+https://www.npr.org/: 19 uph
+https://minnesota.cbslocal.com/: 19 uph
+https://detroit.cbslocal.com/: 19 uph
+https://losangeles.cbslocal.com/: 19 uph
+https://tampa.cbslocal.com/: 19 uph
+https://washington.cbslocal.com/: 19 uph
+https://www.bostonherald.com/: 19 uph
+http://brooklyn.news12.com/: 19 uph
+https://www.nbclosangeles.com/: 19 uph
+https://www.nbcmiami.com/: 19 uph
+https://ktla.com/: 18 uph
+https://www.twincities.com/: 18 uph
+https://www.news10.com/: 18 uph
+https://www.nbcnews.com/: 17 uph
+https://www.kxan.com/: 17 uph
+https://www.minnpost.com/: 17 uph
+https://observer.com/: 15 uph
+https://www.usatoday.com/: 12 uph
+https://kdvr.com/: 11 uph
+https://www.metrotimes.com/: 11 uph
+https://wgntv.com/: 10 uph
+https://www.kron4.com/: 10 uph
+https://fox2now.com/: 10 uph
+https://fox5sandiego.com/: 10 uph
+https://kplr11.com/: 10 uph
+https://www.boston.com/: 0 uph
+https://citylimits.org/: 0 uph
+https://foxtonnews.com/: 0 uph
+http://heartlandnewsfeed.com/: 0 uph
+https://usbreakingnews.net/: 0 uph
+https://www.miamitodaynews.com/: 0 uph
+https://www.pridepublishinggroup.com/pride/: 0 uph
+https://magnews.live/category/us-news/: 0 uph
+https://americanstripe.com/: 0 uph
+http://www.laobserved.com/: 0 uph
+https://www.usacanadanews.com/: 0 uph
+
+https://www.huffpost.com/ generated an exception: HTTP Error 403: Forbidden
+https://www.washingtontimes.com/ generated an exception: HTTP Error 403: Forbidden
+https://www.autonews.com/ generated an exception: HTTP Error 403: Forbidden
+https://www.nysun.com/ generated an exception: HTTP Error 403: Forbidden
+https://www.texasobserver.org/ generated an exception: HTTP Error 403: Forbidden
+https://lpsentinel.com/ generated an exception: <urlopen error [Errno -2] Name or service not known>
+https://usnewsbox.com/ generated an exception: HTTP Error 403: Forbidden
+https://worldtruth.tv/ generated an exception: HTTP Error 403: Forbidden
+https://www.enmnews.com/ generated an exception: HTTP Error 403: Forbidden
+https://timesofsandiego.com/ generated an exception: HTTP Error 403: Forbidden
+https://www.amny.com/ generated an exception: HTTP Error 403: Forbidden
+https://www.seattlepi.com/ generated an exception: HTTP Error 451: Unavailable For Legal Reasons
+failed to decode utf-8 text of https://www.phillyvoice.com/
+https://www.newsweek.com/ generated an exception: HTTP Error 403: Forbidden
+https://arlington.wickedlocal.com/ generated an exception: HTTP Error 403: Forbidden
+https://www.villagevoice.com/ generated an exception: HTTP Error 403: Forbidden
+https://www.laweekly.com/ generated an exception: HTTP Error 403: Forbidden
+https://viral199.us/ generated an exception: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'viral199.us'. (_ssl.c:1108)>
+https://www.e360hub.com/ generated an exception: <urlopen error [Errno -2] Name or service not known>
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+https://www.phillyvoice.com/ generated an exception: 'bytes' object has no attribute 'encode'
+https://www.miamiherald.com/ generated an exception: The read operation timed out
+https://usathrill.com/ generated an exception: The read operation timed out
+https://wtop.com/ generated an exception: HTTP Error 403: Forbidden
